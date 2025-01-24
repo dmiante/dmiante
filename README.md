@@ -1,13 +1,13 @@
 <h1 align="center"> Hola! Soy Damián <img src="https://github.com/dmi4n/dmi4n/blob/main/Hi.gif" width="29px"></h1>
 
 <p align="left">
-🦁 Entusiasta por la tecnología, trabajando para ser programador fullstack. Aprendiendo Typescript, React y NextJS. Cursando SQL.
+🦁 Entusiasta por la tecnología, desarrollándome como fullstack developer. Aprendiendo Typescript, React y NextJS. Cursando SQL.
 </p>
 
 <a href="https://www.linkedin.com/in/damian-soto/">
 	<img align="left" alt="Damian soto LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
-<a href='mailto:soto.damian02@gmail.com'>
+<a href='mailto:dmiantedev@gmail.com'>
 	<img align="left" alt="Damian soto email" width="22px" src="https://icongr.am/fontawesome/envelope.svg?size=128&color=70c8ff" />
 </a>
 
@@ -26,6 +26,11 @@
 	<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 	<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 	<a src="https://nextjs.org/"><img src="https://img.icons8.com/color/48/000000/nextjs.png"/></a>
+	<a src="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
+	<a src="https://www.tailwindcss.com/"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></a>
+	<a src="https://www.firebase.google.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
+	<a src="https://www.supabase.com/"><img src="https://img.icons8.com/color/48/000000/supabase.png"/></a>
+	<a src="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48"/></a>
   <p>
 </div> 
 
